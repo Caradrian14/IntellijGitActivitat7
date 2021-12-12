@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Hola desde Intellij en el segundo comit");
         System.out.println("Hola desde la rama develop");
         System.out.println("Acabado de realizar el merge");
+        System.out.println("Comentario tras el merge y el commit de main");
     }
 }
